@@ -1,0 +1,63 @@
+body {
+  background-color: #a2d5f5;
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 3%;
+}
+
+h1 {
+  color: #aaa2f5;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 40px;
+   text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+input[type=text]:focus {
+  border: 3px solid #555;
+  background-color: #a2d5f5;
+}
+
+input[type=text] {
+  border-radius: 5px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  background-color: #aaa2f5;
+  padding: 2%;
+  border-radius: 15px;
+}
+
+.centerText {
+  text-align: center;
+}
+
+.songrec {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.dodie {
+  color: rgb(243, 223, 100);
+}
+
+.bleachers {
+  color: rgb(189, 188, 187);
+}
+
+.david {
+  color: rgb(170, 11, 34);
+}
+
+.taylor {
+  color: rgb(230, 230, 230);
+}
